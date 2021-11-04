@@ -1,7 +1,7 @@
 Jayway JsonPath
 =====================
 
-**A Java DSL for reading JSON documents.**
+**A Java DSL for reading JSON documents**
 
 [![Build Status](https://travis-ci.org/json-path/JsonPath.svg?branch=master)](https://travis-ci.org/json-path/JsonPath)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jayway.jsonpath/json-path/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jayway.jsonpath/json-path)
